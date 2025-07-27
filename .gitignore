@@ -4,6 +4,7 @@
 *.tfstate.backup
 crash.log
 *.tfplan
+volume/
 
 # Archivos de bloqueo que dependen del sistema local
 .terraform.lock.hcl
