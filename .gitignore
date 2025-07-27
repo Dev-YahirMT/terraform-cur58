@@ -1,0 +1,9 @@
+# Archivos y carpetas generadas por Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+*.tfplan
+
+# Archivos de bloqueo que dependen del sistema local
+.terraform.lock.hcl
